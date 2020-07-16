@@ -3,4 +3,8 @@ Test Merge
 State 0: Development
 State 1: Feature
 State 2: Feature-2
+<<<<<<< HEAD
 State 3: Feature 3
+=======
+State 4: Feature 4
+>>>>>>> Push 5
